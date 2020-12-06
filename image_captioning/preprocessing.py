@@ -114,8 +114,6 @@ for image in images:
   batch_t = torch.unsqueeze(img_t, 0)
   features.append(batch_t.numpy())
 features = np.array(features)
-# np.save("features2.npy",features)
-# print(features.shape)
 
 # Creating initial embeddings for all words in the vocabulary 
  
