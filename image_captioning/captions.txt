@@ -1,0 +1,5 @@
+<image_name>#0	<caption0>
+<image_name>#1	<caption1>
+<image_name>#2	<caption2>
+<image_name>#3	<caption3>
+<image_name>#4	<caption4>
